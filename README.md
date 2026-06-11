@@ -5,6 +5,10 @@
 [![GitHub stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Latent-Space-AI-Architectures?style=for-the-badge&color=ffd700)](https://github.com/ishandutta2007/Awesome-Latent-Space-AI-Architectures/stargazers)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/ishandutta2007/awesome-awesome-awesome)
+<br />
+  <a href="https://github.com/ishandutta2007">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow&style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
+  </a>
 
 **A curated list of foundational and cutting-edge Latent Space AI architectures, including GANs, VAEs, Diffusion Models, and more.**
 
