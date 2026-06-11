@@ -34,3 +34,17 @@ The top foundational and cutting-edge latent space architectures driving modern 
 * **How it works:** NeRFs optimize a continuous latent representation of a 3D scene. By mapping spatial coordinates and viewing directions into a latent space, the model can render photorealistic 3D environments, new camera views, and lighting changes.
 * **Key Use Cases:** 3D reconstruction, virtual reality (VR), and spatial computing.
 * **Examples:** Instant NGP, Luma AI.
+
+
+
+## 📈 Star History
+
+<div align="center">
+   <a href="https://www.star-history.com/?repos=ishandutta2007%2FAwesome-Latent-Space-AI-Architectures&type=date&legend=bottom-right">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Latent-Space-AI-Architectures&type=date&theme=dark&legend=bottom-right" />
+      <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Latent-Space-AI-Architectures&type=date&legend=bottom-right" />
+      <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Latent-Space-AI-Architectures&type=date&legend=bottom-right" />
+    </picture>
+   </a>
+</div>
