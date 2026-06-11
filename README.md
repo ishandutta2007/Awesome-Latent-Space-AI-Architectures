@@ -1,4 +1,16 @@
 # Awesome-Latent-Space-AI-Architectures
+
+## Architecture Reference Table
+
+| Architecture | Year | Original Research Paper |
+| :--- | :--- | :--- |
+| **[GANs](./GAN.md)** | 2014 | [Generative Adversarial Nets](https://arxiv.org/abs/1406.2661) |
+| **[VAEs](./VAE.md)** | 2013 | [Auto-Encoding Variational Bayes](https://arxiv.org/abs/1312.6114) |
+| **[LDMs](./LDM.md)** | 2022 | [High-Resolution Image Synthesis with Latent Diffusion Models](https://arxiv.org/abs/2112.10752) |
+| **[Normalizing Flows](./Flow.md)** | 2015 | [Variational Inference with Normalizing Flows](https://arxiv.org/abs/1505.05770) |
+| **[VQ-VAEs](./VQ-VAE.md)** | 2017 | [Neural Discrete Representation Learning](https://arxiv.org/abs/1711.00937) |
+| **[Transformer Latent](./Transformer-Latent.md)** | 2017 | [Attention Is All You Need](https://arxiv.org/abs/1706.03762) |
+
 ## Top Latent Space AI Architectures
 
 Latent Space AI architectures mathematically compress high-dimensional data into compressed, continuous vector representations (the latent space). This allows algorithms to map abstract concepts, interpolate between features, and generate novel data. 
